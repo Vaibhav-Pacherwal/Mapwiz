@@ -1,0 +1,14 @@
+{
+  "name": "mapwiz",
+  "version": "1.0.0",
+  "description": "JS library that helps you to geocode user's location and display that location using map.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaibhav Pacherwal",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.11.0"
+  }
+}
