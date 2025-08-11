@@ -37,12 +37,20 @@ npm install mapwiz
 
 ---
 
-## 🚀 Usage
+## Example Usage
 
-### 1. Import the Library
+```html
+<div id="map" style="height: 400px;"></div>
 
-```js
-import MapWiz from "mapwiz-lib";
+<script type="module">
+    import mapWiz from "https://esm.sh/mapwiz";
+
+    async function initMap() {
+        await mapWiz.drawRoute("map", "nsut", "shahdara");
+    }
+
+    initMap();
+</script>
 ```
 
 ---
