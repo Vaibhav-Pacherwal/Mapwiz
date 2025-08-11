@@ -7,7 +7,7 @@
 ## 📦 Installation
 
 ```bash
-npm install mapwiz
+import mapWiz from "https://esm.sh/mapwiz";
 ```
 
 ---
