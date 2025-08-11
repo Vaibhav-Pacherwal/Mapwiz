@@ -63,7 +63,7 @@ import mapWiz from "https://esm.sh/mapwiz";
 MapWiz.showMap("mapContainer", "Delhi");
 ```
 
-![showMap](./screenshots/showMap.png)
+![showMap](https://github.com/Vaibhav-Pacherwal/Mapwiz/blob/main/screenshots/showMap.png)
 
 ---
 
@@ -73,7 +73,7 @@ MapWiz.showMap("mapContainer", "Delhi");
 const coords = await MapWiz.getCoordinates("Warsaw");
 ```
 
-![getCoordinates](./screenshots/getCoordinates.png)
+![getCoordinates](https://github.com/Vaibhav-Pacherwal/Mapwiz/blob/main/screenshots/getCoordinates.png)
 
 ---
 
@@ -83,7 +83,7 @@ const coords = await MapWiz.getCoordinates("Warsaw");
 const address = await MapWiz.reverseGeocode(28.7041, 77.1025);
 ```
 
-![reverseGeocode](./screenshots/reverse_geocode.png)
+![reverseGeocode](https://github.com/Vaibhav-Pacherwal/Mapwiz/blob/main/screenshots/reverse_geocode.png)
 
 ---
 
@@ -93,7 +93,7 @@ const address = await MapWiz.reverseGeocode(28.7041, 77.1025);
 MapWiz.showMapWithCustomMarker("icon.png", "mapContainer", "Hyderabad");
 ```
 
-![showMapWithCustomMarker](./screenshots/showMapWithCustomMarker.png)
+![showMapWithCustomMarker](https://github.com/Vaibhav-Pacherwal/Mapwiz/blob/main/screenshots/showMapWithCustomMarker.png)
 
 ---
 
@@ -103,7 +103,7 @@ MapWiz.showMapWithCustomMarker("icon.png", "mapContainer", "Hyderabad");
 MapWiz.plotMultipleLocations("mapContainer", ["Delhi", "Meerut"]);
 ```
 
-![plotMultipleLocations](./screenshots/plotMultipleLocations.png)
+![plotMultipleLocations](https://github.com/Vaibhav-Pacherwal/Mapwiz/blob/main/screenshots/plotMultipleLocations.png)
 
 ---
 
@@ -113,7 +113,7 @@ MapWiz.plotMultipleLocations("mapContainer", ["Delhi", "Meerut"]);
 MapWiz.drawRoute("mapContainer", "Delhi", "Meerut");
 ```
 
-![drawRoute](./screenshots/drawRoute.png)
+![drawRoute](https://github.com/Vaibhav-Pacherwal/Mapwiz/blob/main/screenshots/drawRoute.png)
 
 ---
 
@@ -123,7 +123,7 @@ MapWiz.drawRoute("mapContainer", "Delhi", "Meerut");
 MapWiz.drawRouteWithWaypoints("mapContainer", ["Delhi", "Meerut", "Faizabad", "Kanpur"]);
 ```
 
-![drawRouteWithWaypoints](./screenshots/drawRouteWithWaypoints.png)
+![drawRouteWithWaypoints](https://github.com/Vaibhav-Pacherwal/Mapwiz/blob/main/screenshots/drawRouteWithWaypoints.png)
 
 ---
 
