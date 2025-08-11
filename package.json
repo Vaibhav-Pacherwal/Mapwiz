@@ -1,6 +1,6 @@
 {
   "name": "mapwiz",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JS library that helps you to geocode user's location and display that location using map.",
   "main": "src/index.js",
   "keywords": [
